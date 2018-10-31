@@ -1,0 +1,17 @@
+{
+    "name": "joel-fragoso/authentication",
+    "description": "Systema de autenticação/login com Slim Framework 3",
+    "type": "project",
+    "require": {
+        "slim/slim": "3.3.0",
+        "php": ">= 7.0.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joel Fragoso",
+            "email": "joel.fragoso@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
