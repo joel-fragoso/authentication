@@ -8,4 +8,5 @@ $app = new \Slim\App([
 	]
 ]);
 
+require_once __DIR__.'/../app/providers.php';
 require_once __DIR__.'/../app/routes.php';

@@ -1,0 +1,21 @@
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 100%;
+}
+
+body {
+	font-family: "Roboto", sans-serif;
+	font-weight: normal;
+	line-height: 1.5;
+	color: #424242;
+	background-color: #FAFAFA;
+}
